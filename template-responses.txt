@@ -1,0 +1,5 @@
+*like<c>:I like <c> too!
+*visited<c>:I like <c> too!
+*: Let's talk about something else
+*: Better tell me more about yourself
+*: Didn't quite get what you mean here
