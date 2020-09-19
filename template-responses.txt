@@ -1,32 +1,32 @@
-*s your name:My name is Sub-Zero, nice to meet you
-you are*: Thank you, you're too)
-*like<c>*:I like <c> too!
-*like<c>*:<c>? Sounds great
-*visited<c>*:I would like to go to <c> too!
-*been to <c>*:I would like to go to <c> too!
-*should*:You really think so?
-*should*:Why do you think so?
-*must*:Are you sure about this?
-*must*:I am not sure about this
-*may*:What makes you think so?
-*can*:What else?
-*has to*:Really?
-*has to*:Are you sure about that?
-*have to*:For real?
-*have to*:You sure?
-why*:I don't know
-why*:Everyone knows that!
-why*:How do you think should I know?
-what*:Nothing
-what*:Unfortunately, I don't know
-what*:Do I look like Google to you?
-when*:Unfortunately, I don't know
-when*:It's none of your business
-where*:It's none of your business
-where*:Unfortunately, I don't know
-*)::-)
-*(:Sad
-*(::-(
-*:Let's talk about something else
-*:Better tell me more about yourself
-*:Didn't quite get what you mean here
+*s your name|My name is Sub-Zero, nice to meet you
+you are*|Thank you, you're too)
+*like<c>*|I like <c> too!
+*like<c>*|<c>? Sounds great
+*visited<c>*|I would like to go to <c> too!
+*been to <c>*|I would like to go to <c> too!
+*should*|You really think so?
+*should*|Why do you think so?
+*must*|Are you sure about this?
+*must*|I am not sure about this
+*may*|What makes you think so?
+*can*|What else?
+*has to*|Really?
+*has to*|Are you sure about that?
+*have to*|For real?
+*have to*|You sure?
+why*|I don't know
+why*|Everyone knows that!
+why*|How do you think should I know?
+what*|Nothing
+what*|Unfortunately, I don't know
+what*|Do I look like Google to you?
+when*|Unfortunately, I don't know
+when*|It's none of your business
+where*|It's none of your business
+where*|Unfortunately, I don't know
+*)|:-)
+*(|Sad
+*(|:-(
+*|Let's talk about something else
+*|Better tell me more about yourself
+*|Didn't quite get what you mean here
