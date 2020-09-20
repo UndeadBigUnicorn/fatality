@@ -1,3 +1,8 @@
+hi*|What's up dude
+hello*|Hi there
+how are you*|I'm fine, wbu?
+what's up|Not much, wbu?
+sup|Not much, wbu?
 *s your name|My name is Sub-Zero, nice to meet you
 you are*|Thank you, you're too)
 *like<c>*|I like <c> too!
@@ -29,6 +34,7 @@ who*|I don't know that person
 *)|:-)
 *(|Sad
 *(|:-(
+*|How do you feel?
 *|Let's talk about something else
 *|Better tell me more about yourself
 *|Didn't quite get what you mean here
