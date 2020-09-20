@@ -1,2 +1,3 @@
 .idea
 venv
+template_engine/__pycache__

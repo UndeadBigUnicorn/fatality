@@ -24,6 +24,8 @@ when*|Unfortunately, I don't know
 when*|It's none of your business
 where*|It's none of your business
 where*|Unfortunately, I don't know
+who*|Who knows
+who*|I don't know that person
 *)|:-)
 *(|Sad
 *(|:-(
